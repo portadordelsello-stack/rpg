@@ -1,0 +1,12 @@
+{
+  "players": {
+    "__document_id": "User UID",
+    "id": "string",
+    "x": "number",
+    "y": "number",
+    "hp": "number",
+    "maxHp": "number",
+    "mana": "number",
+    "maxMana": "number"
+  }
+}
